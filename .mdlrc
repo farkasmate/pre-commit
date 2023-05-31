@@ -1,0 +1,2 @@
+# vim: set filetype=ruby:
+style "#{File.dirname(__FILE__)}/.mdl_style.rb"
